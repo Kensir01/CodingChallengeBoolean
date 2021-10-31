@@ -1,0 +1,70 @@
+body {
+		 background-image: url("background.jpg");
+		 background-size: cover;
+
+}
+#container{
+				background-color: rgba(0, 0, 0, 0.4);
+				margin: auto;
+				margin-top: 5%;
+				width: 700px;
+				height: 500px;
+				border-radius: 15px;
+				font-family: sans-serif;
+}
+#logo{
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+				width: 150px;
+}
+#scritta-verde{
+				display: block;
+				text-align: center;
+				font-size: 30px;
+				color: #26ff00;
+
+}
+#contenitore-bottoni{
+				text-align: center;
+				display: block;
+				background-color: #00de01;
+				height: 30px;
+				margin-left: 70px;
+				margin-right: 70px;
+}
+.tasti{
+  margin: auto;
+	margin-top: 5px;
+}
+
+.monopattini{
+				color: white;
+				margin-left: 70px;
+				font-size: 15px;
+				line-height: 0.1em;
+}
+#carica-uno{
+				display: block;
+				background-color: #f4b355;
+				width: 250px;
+				height: 20px;
+				border-radius: 5px;
+				margin-left: 70px;
+}
+#carica-due{
+				display: block;
+				background-color: #1ec51e;
+				width: 350px;
+				height: 20px;
+				border-radius: 5px;
+				margin-left: 70px;
+}
+#carica-tre{
+				display: block;
+				background-color: #bd4143;
+				width: 150px;
+				height: 20px;
+				border-radius: 5px;
+				margin-left: 70px;
+}
